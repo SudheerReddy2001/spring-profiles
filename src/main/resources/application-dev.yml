@@ -1,0 +1,5 @@
+spring:
+  message: Hello youtube from Dev Environment
+
+  server:
+    port:8080
